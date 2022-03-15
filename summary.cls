@@ -1,21 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Stylish Article
-% Class File
-% Version 2.2 (2020-10-22)
-%
-% This template has been downloaded from:
-% http://www.LaTeXTemplates.com
-%
-% Original author:
-% Mathias Legrand (legrand.mathias@gmail.com)
-% With extensive modifications by:
-% Vel (vel@latextemplates.com)
-%
-% License:
-% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 %----------------------------------------------------------------------------------------
 %	CLASS CONFIGURATION
 %----------------------------------------------------------------------------------------
@@ -240,3 +222,5 @@
 		\vskip25pt%
 	}]%
 }
+
+\setlength{\columnsep}{0.6cm} % Distance between the two columns of text
